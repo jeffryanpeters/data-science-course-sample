@@ -10,3 +10,5 @@ The courses comprising the Data Science Specialization are:
 * Practical Machine Learning Overview
 * Developing Data Products
 * Data Science Capstone
+
+Git is easy. Git is fun. Thanks Linus!
